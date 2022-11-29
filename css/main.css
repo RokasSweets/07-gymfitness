@@ -34,3 +34,57 @@
 .main-nav > a:hover {
     border: 2px solid #4e4d5d;
     }
+
+.main-content {
+    display: inline-block;
+    margin-left: calc(50% - 500px);
+    margin-top: 40px;
+    width: 1000px;
+}
+
+.main-content > div {
+    width: 35%;
+    float: left;
+}
+
+.main-content > img {
+    width: 60%;
+    float: right;
+}
+
+.main-title {
+    color: #4e4d5d;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    font-size: 19px;
+    margin-top: -10px;
+    line-height: 1.4em;
+    letter-spacing: 0.05em;
+    word-spacing: 0.1em;
+    opacity: 0.5;
+    font-family: tahoma;
+}
+
+.btn {
+    background-color: #ff4879;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 28px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    padding: 0.7em;
+    padding-left: 1.9em;
+    padding-right: 1.9em;
+    text-decoration: none;
+    border-radius: 0.4em;
+    display: inline-block;
+    box-shadow: 0px 0.5em 0.2em -0.45em #888;
+    transition: all 1s;
+}
+
+.btn:hover {
+    box-shadow: 0px 0.6em 0.4em -0.5em #555;
+}
