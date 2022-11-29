@@ -1,0 +1,24 @@
+{
+  "name": "07-gymfitness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4107 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RokasSweets/07-gymfitness.git"
+  },
+  "keywords": [],
+  "author": "RokasSweets",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RokasSweets/07-gymfitness/issues"
+  },
+  "homepage": "https://github.com/RokasSweets/07-gymfitness#readme",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
