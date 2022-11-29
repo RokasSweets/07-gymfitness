@@ -1,0 +1,36 @@
+.main-header {
+    display: inline-block;
+    margin-left: calc(50% - 500px);
+    margin-top: 40px;
+    width: 1000px;
+    }
+
+.main-header > nav > a {
+    color: #4e4d5d;
+    opacity: 0.8;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: tahoma;
+    margin-left: 0.5em;
+    border: 0.1em solid transparent;
+    padding: 0.3em;
+    padding-left: 1.2em;
+    padding-right: 1.2em;
+    display: inline-block;
+    border-radius: 0.2em;
+    line-height: 1em;
+    transition: all 0.2s;
+    }
+    
+.main-nav {
+    float: right;
+    margin-top: 4px;
+    }
+    
+.main-nav > a:first-child {
+    margin-left: 0;
+    }
+    
+.main-nav > a:hover {
+    border: 2px solid #4e4d5d;
+    }
