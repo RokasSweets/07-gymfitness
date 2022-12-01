@@ -14,9 +14,8 @@ Design: [Gym Fitness](./img/design.png)
 
 ## 🎯 Project features/goals
 
--   Github pages
--   responsive design
--   CSS animation
+-   Github pages.
+-   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style).
 
 ## 🧰 Getting Started
 
